@@ -1,4 +1,4 @@
-# bowling_spec.rb
+# bowling_spec.rb    modif
 require './bowling'
 
 describe Bowling, "#score" do
