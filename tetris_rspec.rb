@@ -28,10 +28,6 @@ puts 'tab_2 (Etat final) :'
 print tab_2
 puts ''
 
-puts 'After rotate90 :'
-tab_after = rotate90(tab_1)
-print tab_after
-puts ''
 
 puts 'Result :'
-puts tab_after.eql?(tab_2) 
+puts rotate90(tab_1).eql? (tab_2) 
